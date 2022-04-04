@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fields templateEngineKind="Velocity" >
+	<description><![CDATA[]]></description>
+	<field name="alunno.Classe" list="false" imageName="" syntaxKind="">
+		<description><![CDATA[]]></description>
+	</field>
+	<field name="alunno.Data" list="false" imageName="" syntaxKind="">
+		<description><![CDATA[]]></description>
+	</field>
+	<field name="alunno.Name" list="false" imageName="" syntaxKind="">
+		<description><![CDATA[]]></description>
+	</field>
+	<field name="alunno.Sezione" list="false" imageName="" syntaxKind="">
+		<description><![CDATA[]]></description>
+	</field>
+	<field name="alunno.Surname" list="false" imageName="" syntaxKind="">
+		<description><![CDATA[]]></description>
+	</field>
+</fields>
